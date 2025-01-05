@@ -4,7 +4,6 @@ This repository provides a deep learning-based solution for detecting deepfake i
 
 ![Screenshot (263)](https://github.com/user-attachments/assets/1d0acef4-6d9c-47c7-810e-2d8e2f894087)
 
-
 ## Features
 - **Streamlit Web App:** A user-friendly interface for uploading and analyzing images.
 - **Trained CNN Model:** Achieves accurate predictions on real and deepfake images.
