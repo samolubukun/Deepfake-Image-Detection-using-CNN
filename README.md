@@ -20,7 +20,7 @@ The CNN model was trained to classify images as real or fake:
 - **Access Training Notebook:** [Notebook](https://github.com/samolubukun/Deepfake-Image-Detection-using-CNN/tree/main/Notebook)
 - **Dataset Used:** [140k Real and Fake Faces Dataset](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)
 
-- **Model Download:** Download the trained model file and place it in the same folder as the Streamlit app (e.g., `app.py`) for execution: [videoforgerydetection.keras](https://drive.google.com/file/d/13pMFr1UYuDJ_5wxRQmBgxMwc6XItXjBh/view?usp=sharing)
+- **Model Download:** Download the trained model file and place it in the same folder as the Streamlit app (e.g., `app.py`) for execution: [deepfake_image_detection.h5](https://drive.google.com/file/d/13pMFr1UYuDJ_5wxRQmBgxMwc6XItXjBh/view?usp=sharing)
 
 ## How to Use
 
